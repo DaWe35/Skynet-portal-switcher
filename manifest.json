@@ -1,0 +1,42 @@
+{
+
+  "manifest_version": 2,
+  "name": "Sia Skynet portal extension",
+  "description": "Sia Skynet portal extension",
+  "version": "0.1",
+
+  "icons": {
+    "48": "icons/siacoin.svg",
+    "96": "icons/siacoin.svg"
+  },
+
+  "browser_specific_settings": {
+    "gecko": {
+      "strict_min_version": "56.0a1"
+    }
+  },
+
+  "background": {
+    "scripts": [
+      "background/functions.js",
+      "background/portal-handler.js"
+    ]
+  },
+
+  "options_ui": {
+    "page": "options/options.html",
+    "browser_style": true
+  },
+
+  "permissions": ["webRequest", "webRequestBlocking", "storage", "activeTab", "<all_urls>"],
+
+
+  "protocol_handlers": [
+    {
+      "protocol": "web+sia",
+      "name": "Sia Protocol Handler",
+      "uriTemplate": "https://siasky.net/%s"
+    }
+  ]
+
+}
