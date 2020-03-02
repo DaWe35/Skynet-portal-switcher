@@ -6,8 +6,8 @@
   "version": "0.1",
 
   "icons": {
-    "48": "icons/siacoin.svg",
-    "96": "icons/siacoin.svg"
+    "48": "icons/48.png",
+    "96": "icons/96.png"
   },
 
   "browser_specific_settings": {
