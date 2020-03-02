@@ -3,7 +3,7 @@
 ## Download
 
 Firefox: https://addons.mozilla.org/hu/firefox/addon/sia-skynet-portal-switcher
-Chrome: ...
+Chrome: review pending...
 
 ## Features
 
