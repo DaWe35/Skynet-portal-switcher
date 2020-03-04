@@ -1,5 +1,7 @@
 # Sia Skynet portal switcher
 
+Demo video: https://siasky.net/_BXOCGKRgWuoF7rfZJ-mhTMWUuRYd8aR9fhSU1I8qZt3WQ
+
 ## Download
 
 Firefox: https://addons.mozilla.org/hu/firefox/addon/sia-skynet-portal-switcher
@@ -8,7 +10,7 @@ Chrome: review pending...
 
 ## Features
 
-- Handles the web-sia:// protocol
+- Handles the web-sia:// protocol (only in Firefox)
 
 - Redirects all portal requests to a default portal
 
