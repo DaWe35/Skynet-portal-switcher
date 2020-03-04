@@ -16,10 +16,6 @@ function updateUI(restored) {
   defaultPortalTextArea.value = restored.defaultPortal;
 }
 
-function onError(e) {
-  console.error(e);
-}
-
 // On opening the options page, fetch stored settings and update the UI with them.
 browser.storage.local.get(['defaultPortal'], function(result) {
   updateUI(result);
