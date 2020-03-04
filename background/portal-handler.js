@@ -1,3 +1,5 @@
+var browser = browser || chrome;
+
 // Use this portal
 let redirectTo = 'siasky.net';
 
