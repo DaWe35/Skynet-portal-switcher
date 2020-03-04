@@ -1,6 +1,6 @@
 # Sia Skynet portal switcher
 
-Demo video: https://siasky.net/_BXOCGKRgWuoF7rfZJ-mhTMWUuRYd8aR9fhSU1I8qZt3WQ
+Demo video: https://siasky.net/_AkeJbkYoYCPe7KmjalFAKZ2WfH7FKiPVMNpSMswseWkbg
 
 ## Download
 
