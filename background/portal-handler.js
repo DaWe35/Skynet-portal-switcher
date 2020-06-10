@@ -12,6 +12,10 @@ let portalList = [
 	"skynet.tutemwesi.com",
 	"siacdn.com",
 	"vault.lightspeedhosting.com",
+	"skyportal.xyz",
+	"skynethub.io",
+	"skynet.utxo.no",
+	"skynet.coolhd.hu",
 	"sia://",
 	"web-sia://"
 ];
