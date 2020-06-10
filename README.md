@@ -2,11 +2,11 @@
 
 Demo video: https://siasky.net/AABcTmERUpiMXAIPIAsUwhzyw6mPSl_jdUavFv7s7-Weww
 
-## Download
+## Install
 
 Firefox: https://addons.mozilla.org/hu/firefox/addon/sia-skynet-portal-switcher
 
-Chrome: review pending...
+Chrome: https://chrome.google.com/webstore/detail/sia-skynet-portal-extensi/kaihbhdmokoejfgefchnnnaolieoebge
 
 ## Features
 
